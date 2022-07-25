@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/subfolder/precache-manifest.ca89b70a69cd2602228ad26b66da8950.js"
+  "/vue-companies-crud-table-demo/precache-manifest.ced8b9e03b737a7ff51b1c3e8183dfb4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "reader-frontend"});
